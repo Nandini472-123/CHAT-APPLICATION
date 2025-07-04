@@ -22,3 +22,4 @@ On the backend, the Node.js server uses Express to serve the chat interface (HTM
 
 Security-wise, this simple version of the app does not include user authentication, private rooms, or encryption. However, Socket.IO does provide features for managing namespaces (channels) and rooms, as well as support for integrating authentication mechanisms to ensure secure communication.
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/c9c5e419-5279-4bc7-bff5-d175c9b6c697)
